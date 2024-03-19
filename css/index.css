@@ -1,0 +1,17 @@
+.cronometro {
+    font-size: 10rem;
+}
+.time {
+    border-radius: 5px;
+    
+}
+.btn {
+    width: 10rem;
+    height: 5rem;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
